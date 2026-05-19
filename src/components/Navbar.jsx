@@ -1,5 +1,3 @@
-// Componente barra de navegación
-
 function Navbar() {
 
   return (
@@ -15,11 +13,13 @@ function Navbar() {
       </div>
 
       <ul>
+
         <li>Inicio</li>
         <li>Ventas</li>
         <li>Arriendos</li>
         <li>Nosotros</li>
         <li>Contacto</li>
+
       </ul>
 
       <button className="publish-btn">
